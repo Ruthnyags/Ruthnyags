@@ -1,4 +1,4 @@
-- 🤝 Hi, I'm Ruthnyags , a mother to 4 babies.
+- 🤝 Hi, I'm Ruthnyags ,
 - 👀 I’m interested in learning to be a developer at the same time to be ux/UI designer. 
 - 🌱 I’m currently learning Css JavaScript python and ux/UI programs courses. 
 - 💞️ I’m looking to collaborate on  any project given to sharpen my skills and gain knowledge in this field. 
